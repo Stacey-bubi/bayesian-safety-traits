@@ -1,0 +1,67 @@
+bayesian_safety_traits/models/bayesian.py
+  s_65d8fedfb8b1da::t_24c36ead39a981 1-11,17-18,25-30,32-50,57-77,82-125,127-128,130-132,137-139
+  s_65d8fedfb8b1da::t_12ada7a7e632ee 24
+  s_65d8fedfb8b1da::t_c372e2a7f8b03b 51-56
+  s_65d8fedfb8b1da::t_864ad02ffc8946 78-81
+  s_65d8fedfb8b1da::t_2e448a96f2de83 12-16,19-23,31
+  s_65d8fedfb8b1da::t_891597ab30be02 126,129,133-136
+pyproject.toml
+  s_65d8fedfb8b1da::t_a1fbf3611ed044 14-17
+  s_65d8fedfb8b1da::t_5a99fa123839ac 8-12
+  s_65d8fedfb8b1da::t_6d1cdabd62ba7b 7,13
+README.md
+  s_65d8fedfb8b1da::t_a59917ec79e788 26,28,32
+  s_65d8fedfb8b1da::t_fd847819c1c929 4-14,17-18,21,23-25,27,29-31
+scripts/train_eval.py
+  s_65d8fedfb8b1da::t_c807b6bc38f5a6 1-62
+  s_65d8fedfb8b1da::t_a97ce7606b289d 63-65
+  s_65d8fedfb8b1da::t_d7baf8b376fb65 66-73
+bayesian_safety_traits/models/base.py
+  s_65d8fedfb8b1da::t_7a95cc7cc45247 10-11,14-18,21-24,27-28
+  s_65d8fedfb8b1da::t_af25d80e12c28f 1-9,12-13,19-20,25-26,29
+bayesian_safety_traits/models/__init__.py
+  s_65d8fedfb8b1da::t_e36e30918b72dd 1-5
+bayesian_safety_traits/metrics.py
+  s_65d8fedfb8b1da::t_4fee78509625df 8-14
+  s_65d8fedfb8b1da::t_744e2d3852b0e7 27-33,38-43
+  s_65d8fedfb8b1da::t_3dbf95f9f6dd61 1-7,15-26,34-37,44-49
+.gitignore
+  h_cec284cdd16cba 1
+tools/generate_synthetic.py
+  s_65d8fedfb8b1da::t_b1b885415aff5c 1-22,24-173
+  h_cec284cdd16cba 23
+bayesian_safety_traits/data.py
+  s_65d8fedfb8b1da::t_0e81a3eb049a3f 1-21,32-49,60-71,81-83
+  s_65d8fedfb8b1da::t_bd3f1f7be9c6eb 22-31
+  s_65d8fedfb8b1da::t_2bf91a382ffa2c 72-80
+  s_65d8fedfb8b1da::t_e35762dfa5e71a 50-59
+bayesian_safety_traits/models/baselines.py
+  s_65d8fedfb8b1da::t_6141e4891ffc05 11-12,20,28
+  s_65d8fedfb8b1da::t_a9a58af4d06d42 38-39,54,61
+  s_65d8fedfb8b1da::t_92ac5ccb8733da 46-49
+  h_cec284cdd16cba 31-32
+  s_65d8fedfb8b1da::t_0dd225ddfe0f5e 1-10,13-19,21-27,29-30,33-37,40-45,50-53,55-60,62-63
+uv.lock
+  s_65d8fedfb8b1da::t_16904fedc9a0db 4-11,14-76,78-622
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b35153e3c6f250c07db30c87a863150cdf63cdc5",
+  "prompts": {},
+  "humans": {
+    "h_cec284cdd16cba": {
+      "author": "Slava Chaunin <67190162+Ssslakter@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_65d8fedfb8b1da": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4f5e6c82-f3d6-446a-89aa-fc8d06b2977e",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Slava Chaunin <67190162+Ssslakter@users.noreply.github.com>"
+    }
+  }
+}
