@@ -1,0 +1,19 @@
+README.md
+  s_35fff254ddec46::t_4038dbe611b816 3-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "183c923c04d007e487a322c97b2ff444e394b455",
+  "prompts": {},
+  "sessions": {
+    "s_35fff254ddec46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02eb60fd-82d7-4715-b889-6e898c3c5639",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Slava Chaunin <67190162+Ssslakter@users.noreply.github.com>"
+    }
+  }
+}
